@@ -32,4 +32,12 @@ First you need to define the routes in the [db.json](https://github.com/PatrickL
 
 - You can customize localhost port in index.ts file on line 9
 
-### After that, just compile the index.ts file or used comand yarn build and run index.js on folder [dist](https://github.com/PatrickLeonardo/abstraction-crud/tree/main/dist)
+#### After that, just run index.js file on folder [dist](https://github.com/PatrickLeonardo/abstraction-crud/tree/main/dist)
+```cmd
+node dist/index.js
+```
+
+#### If any .ts file is modified just use the yarn build command and run again
+```cmd
+yarn build
+```
