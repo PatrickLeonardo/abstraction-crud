@@ -18,4 +18,4 @@ function validation(){
     }
 }
 
-export default validation()
+export default validation();
