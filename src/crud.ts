@@ -34,4 +34,4 @@ function output(){
     return '0' // exit return
 }
 
-export default output()
+export default output();
