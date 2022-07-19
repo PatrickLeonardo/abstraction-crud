@@ -77,6 +77,6 @@ if (validation != 'exit'){
     })
 }
 process.on('SIGINT', function() {
-    console.log("\nServidor finalizado!\n");
+    console.log("\nServidor finalizado!\n")
     process.exit();
 });
